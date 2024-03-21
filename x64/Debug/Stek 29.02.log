@@ -1,0 +1,10 @@
+﻿  Stek 29.02.cpp
+C:\Users\Rog\source\repos\Stek 29.02\Stek 29.02.cpp(37,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\Stek 29.02\Stek 29.02.cpp(32,7): message : во время компиляции функции-члена класс шаблон "void Stack<int>::Push(T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Rog\source\repos\Stek 29.02\Stek 29.02.cpp(73,9): message : см. первую ссылку на "Stack<int>::Push" в "main"
+C:\Users\Rog\source\repos\Stek 29.02\Stek 29.02.cpp(69,13): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Stack<int>"
+  Stek 29.02.vcxproj -> C:\Users\Rog\source\repos\Stek 29.02\x64\Debug\Stek 29.02.exe
